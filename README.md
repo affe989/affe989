@@ -3,9 +3,9 @@ _**Hello there I'm Alfred (affe989)**_
 
 
 About Me
-🌱 I'm currently learning [Python].
+🌱 I'm currently learning Python.
 
-💼 I work at [Polhemsskolan].
+💼 I work at Polhemsskolan.
 
 📫 You can reach me at https://alfredghost.polhemsskolan.com/
 
